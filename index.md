@@ -6,4 +6,4 @@ The extension integrates with Google Sheets, Google Drive, and the Rare Genetics
 
 This application is intended exclusively for authorized Rare Genetics personnel.
 
-[Privacy Policy](./privacy.html)
+[Privacy Policy](./privacy.md)
