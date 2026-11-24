@@ -28,6 +28,4 @@ The application's use and transfer of information received from Google APIs adhe
 
 ## Contact
 
-For questions regarding this privacy policy, contact:
-
-[YOUR SUPPORT EMAIL]
+For questions regarding this privacy policy, contact: `gabrielsernabusiness@gmail.com`
